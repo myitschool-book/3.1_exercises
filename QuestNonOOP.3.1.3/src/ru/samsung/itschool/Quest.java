@@ -1,8 +1,8 @@
-package quest;
+package ru.samsung.itschool;
 
 import java.util.Scanner;
 
-public class quest {
+public class Quest {
 
 	public static void main(String[] args) {
 		Scanner in	= new Scanner(System.in);
