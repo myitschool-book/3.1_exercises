@@ -1,5 +1,4 @@
-package test10;
-
+package ru.samsung.itschool;
 
 public class Test1 {
 	public static void main(String[] args) {

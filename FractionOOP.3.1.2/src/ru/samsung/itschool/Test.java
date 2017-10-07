@@ -1,4 +1,4 @@
-package test10;
+package ru.samsung.itschool;
 
 public class Test {
 
